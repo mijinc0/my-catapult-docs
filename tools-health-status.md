@@ -34,8 +34,8 @@ DiagnosticCounterから取得でき、`catapult.tools.health`によって取得�
 | TOT CONF TXES | Total Confirmed Transactions              | confirmしたTxの総数？                                          |
 | TOTAL PINGS   | Total Pings                               | ハンドシェイク総数？                                           |
 | TS NODE AGE   | TimeSynchronization Node Age              | 接続中のNodeAge(最高？)                                        |
-| TS OFFSET ABS | TimeSynchronization Offset Direction      |                                                                |
-| TS OFFSET DIR | TimeSynchronization Offset absoluteOffset |                                                                |
+| TS OFFSET ABS | TimeSynchronization Offset absoluteOffset |                                                                |
+| TS OFFSET DIR | TimeSynchronization Offset Direction      |                                                                |
 | TS TOTAL REQ  | TimeSynchronization Total Request         |                                                                |
 | TX ELEM ACT   | Tx Element Actice                         |                                                                |
 | TX ELEM TOT   | Tx Element Total                          |                                                                |
